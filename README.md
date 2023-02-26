@@ -3,8 +3,11 @@ just for testing purposes
 # h1
 ## h2
 ### h3
-** bold text **
-* italicized text *
+
+
+**bold text**
+
+*italicized text*
 > blockquote
 
 1. First item

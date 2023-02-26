@@ -18,7 +18,7 @@ just for testing purposes
 - Second item
 - Third item
 
-'code'
+`code`
 
 ---
 
